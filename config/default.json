@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://sai:123@themernblogger-waeu9.mongodb.net/BlogPosts?retryWrites=true&w=majority",
+    "jwtSecret": "jsonwebtoken"
+}
